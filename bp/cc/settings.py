@@ -2,9 +2,9 @@
 # FYERS APP CONFIG
 # ==============================
 
-APP_ID = "YOUR_APP_ID-100"      # must end with -100
-SECRET_KEY = "YOUR_SECRET_KEY"
-REDIRECT_URI = "https://your.redirect.url/"
+APP_ID = "DC1NTBDLD7-100"
+SECRET_KEY = "EDPQURWT8T"
+REDIRECT_URI = "https://127.0.0.1:5000/"
 
 # ==============================
 # MODE
@@ -17,3 +17,7 @@ PAPER_TRADING = True
 # ==============================
 
 TOKEN_FILE = "fyers_token.json"
+
+
+
+
